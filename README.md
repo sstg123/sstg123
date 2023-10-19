@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Soham!
 - 👀 I’m interested in robotics with Arduino and making apps and websites.
-- 🌱 I’m currently in 9th Grade, and the head OC for Helios TECH CLUB for 9th Grade.
-- 💞️ I’m looking and free to collaborate with anyone who reaches out to me either for robotics or even making a basic website or app.
-- 📫 How to reach me? 
+- 📫 How can you contact me? 
 - You can mail me at: sohamsaxena08@gmail.com if you are willing to collaborate.
 - Thank you!
